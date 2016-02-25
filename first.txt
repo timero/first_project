@@ -1,1 +1,2 @@
 Hello Java Junior Training!
+This is the 2nd line.
